@@ -1,0 +1,101 @@
+SalesID,Date,Product,Category,Region,Sales,Profit,Quantity,Discount,Year,Month
+1001,2026-01-01,Headphones,Accessories,South,3517,868.0,1.0,8.47,2026,1
+1002,2026-01-02,Monitor,Electronics,South,41771,9299.0,3.0,11.37,2026,1
+1003,2026-01-04,Keyboard,Accessories,West,20680,4679.0,10.0,11.52,2026,1
+1004,2026-01-06,Headphones,Accessories,South,47864,5865.0,12.0,14.63,2026,1
+1005,2026-01-08,Tablet,Electronics,South,179078,15508.0,8.0,2.55,2026,1
+1006,2026-01-10,Printer,Office Equipment,West,200662,26398.0,15.0,5.0,2026,1
+1007,2026-01-11,Keyboard,Accessories,West,17951,3075.0,11.0,11.61,2026,1
+1008,2026-01-13,Keyboard,Accessories,North,10084,,6.0,17.34,2026,1
+1009,2026-01-15,Headphones,Accessories,Central,29683,6552.0,8.0,11.24,2026,1
+1010,2026-01-17,Mobile,Electronics,Central,298080,37606.0,9.0,4.77,2026,1
+1011,2026-01-19,Tablet,Electronics,South,97407,23776.0,4.0,13.6,2026,1
+1012,2026-01-21,Headphones,Accessories,Central,3400,536.0,1.0,14.8,2026,1
+1013,2026-01-22,Tablet,Electronics,South,343830,76724.0,14.0,4.76,2026,1
+1014,2026-01-24,Tablet,Electronics,North,24316,2749.0,1.0,7.55,2026,1
+1015,2026-01-26,Printer,Office Equipment,West,135683,20343.0,10.0,10.69,2026,1
+1016,2026-01-28,Keyboard,Accessories,West,7816,1555.0,4.0,9.93,2026,1
+1017,2026-01-30,Monitor,Electronics,West,189125,19578.0,12.0,7.79,2026,1
+1018,2026-01-31,Printer,Office Equipment,Central,172067,17648.0,14.0,5.95,2026,1
+1019,2026-02-02,Printer,Office Equipment,,80782,19777.0,7.0,2.0,2026,2
+1020,2026-02-04,Tablet,Electronics,Central,49810,10036.0,2.0,1.07,2026,2
+1021,2026-02-06,Mouse,Accessories,Central,3084,268.0,3.0,19.17,2026,2
+1022,2026-02-08,Keyboard,Accessories,North,1683,249.0,1.0,16.94,2026,2
+1023,2026-02-10,Mobile,Electronics,North,141241,21709.0,5.0,7.1,2026,2
+1024,2026-02-11,Printer,Office Equipment,North,11948,2467.0,1.0,19.14,2026,2
+1025,2026-02-13,Monitor,Electronics,North,118143,14490.0,8.0,13.54,2026,2
+1026,2026-02-15,Mouse,Accessories,West,1034,115.0,1.0,9.65,2026,2
+1027,2026-02-17,Mouse,Accessories,East,8937,838.0,11.0,9.86,2026,2
+1028,2026-02-19,Mobile,Electronics,East,25663,3922.0,1.0,1.67,2026,2
+1029,2026-02-20,Printer,Office Equipment,North,23956,4720.0,2.0,1.83,2026,2
+1030,2026-02-22,Monitor,Electronics,East,27109,2437.0,2.0,12.05,2026,2
+1031,2026-02-24,Keyboard,Accessories,East,20735,4885.0,12.0,11.07,2026,2
+1032,2026-02-26,Laptop,Electronics,North,418568,64962.0,6.0,4.25,2026,2
+1033,2026-02-28,Monitor,Electronics,East,111960,13521.0,7.0,18.92,2026,2
+1034,2026-03-02,Mobile,Electronics,Central,141363,13565.0,5.0,15.63,2026,3
+1035,2026-03-03,Mouse,Accessories,South,911,101.0,1.0,2.27,2026,3
+1036,2026-03-05,Keyboard,Accessories,South,1805,431.0,1.0,18.62,2026,3
+1037,2026-03-07,Monitor,Electronics,North,46840,8830.0,3.0,19.48,2026,3
+1038,2026-03-09,Laptop,Electronics,West,841876,141299.0,14.0,19.92,2026,3
+1039,2026-03-11,Laptop,Electronics,North,133505,25594.0,2.0,1.12,2026,3
+1040,2026-03-12,Tablet,Electronics,West,125803,19382.0,5.0,14.74,2026,3
+1041,2026-03-14,Tablet,Electronics,South,262950,53670.0,12.0,10.92,2026,3
+1042,2026-03-16,Headphones,Accessories,North,39264,3460.0,10.0,14.12,2026,3
+1043,2026-03-18,Mobile,Electronics,Central,176457,,6.0,19.37,2026,3
+1044,2026-03-20,Printer,Office Equipment,East,80222,8581.0,7.0,13.76,2026,3
+1045,2026-03-22,Monitor,Electronics,West,62612,6288.0,4.0,16.74,2026,3
+1046,2026-03-23,Monitor,Electronics,East,110321,15237.0,7.0,17.34,2026,3
+1047,2026-03-25,Printer,Office Equipment,East,146421,13999.0,11.0,16.77,2026,3
+1048,2026-03-27,Headphones,Accessories,North,25734,2471.0,8.0,8.52,2026,3
+1049,2026-03-29,Mouse,Accessories,East,9898,1316.0,11.0,4.45,2026,3
+1050,2026-03-31,Mouse,Accessories,Central,919,227.0,1.0,7.93,2026,3
+1051,2026-04-01,Headphones,Accessories,East,56730,6229.0,15.0,17.84,2026,4
+1052,2026-04-03,Mouse,Accessories,North,4661,386.0,6.0,2.93,2026,4
+1053,2026-04-05,Tablet,Electronics,Central,202112,42397.0,8.0,10.27,2026,4
+1054,2026-04-07,Monitor,Electronics,South,74324,16141.0,5.0,4.66,2026,4
+1055,2026-04-09,Headphones,Accessories,East,13074,1816.0,4.0,11.63,2026,4
+1056,2026-04-11,Monitor,Electronics,North,33451,5319.0,2.0,17.26,2026,4
+1057,2026-04-12,Printer,Office Equipment,South,77351,14732.0,6.0,17.61,2026,4
+1058,2026-04-14,Laptop,Electronics,South,443009,39060.0,6.0,4.73,2026,4
+1059,2026-04-16,Tablet,Electronics,West,229712,55442.0,11.0,18.15,2026,4
+1060,2026-04-18,Keyboard,Accessories,Central,27427,6328.0,15.0,11.84,2026,4
+1061,2026-04-20,Tablet,Electronics,East,22477,2795.0,1.0,7.0,2026,4
+1062,2026-04-21,Headphones,Accessories,North,36039,2977.0,9.0,14.16,2026,4
+1063,2026-04-23,Keyboard,Accessories,West,18848,4499.0,12.0,9.63,2026,4
+1064,2026-04-25,Laptop,Electronics,Central,673322,111217.0,11.0,7.56,2026,4
+1065,2026-04-27,Headphones,Accessories,West,19053,3271.0,6.0,14.1,2026,4
+1066,2026-04-29,Mobile,Electronics,Central,362912,71230.0,13.0,,2026,4
+1067,2026-05-01,Monitor,Electronics,Central,44801,8275.0,3.0,6.61,2026,5
+1068,2026-05-02,Laptop,Electronics,East,250070,60132.0,4.0,8.69,2026,5
+1069,2026-05-04,Monitor,Electronics,Central,174313,41926.0,12.0,5.07,2026,5
+1070,2026-05-06,Mouse,Accessories,West,10922,2484.0,11.0,8.1,2026,5
+1071,2026-05-08,Mobile,Electronics,Central,135481,25496.0,4.0,11.43,2026,5
+1072,2026-05-10,Mobile,Electronics,East,78401,16947.0,3.0,14.82,2026,5
+1073,2026-05-11,Laptop,Electronics,East,593239,115752.0,10.0,15.34,2026,5
+1074,2026-05-13,Mobile,Electronics,West,94621,16793.0,3.0,16.46,2026,5
+1075,2026-05-15,Keyboard,Accessories,South,25855,2633.0,15.0,14.88,2026,5
+1076,2026-05-17,Mobile,Electronics,South,83362,18165.0,3.0,13.62,2026,5
+1077,2026-05-19,Monitor,Electronics,Central,56315,12362.0,4.0,4.75,2026,5
+1078,2026-05-21,Monitor,Electronics,North,99410,18531.0,7.0,8.0,2026,5
+1079,2026-05-22,Headphones,Accessories,Central,15464,3394.0,4.0,9.55,2026,5
+1080,2026-05-24,Monitor,Electronics,West,120283,22944.0,9.0,1.66,2026,5
+1081,2026-05-26,Headphones,Accessories,West,3719,428.0,1.0,10.57,2026,5
+1082,2026-05-28,Monitor,Electronics,West,121902,15430.0,8.0,8.73,2026,5
+1083,2026-05-30,Keyboard,Accessories,West,11831,1378.0,7.0,16.04,2026,5
+1084,2026-05-31,Printer,Office Equipment,West,23422,3376.0,,19.56,2026,5
+1085,2026-06-02,Headphones,Accessories,East,25952,2248.0,8.0,11.12,2026,6
+1086,2026-06-04,Tablet,Electronics,South,22736,4209.0,1.0,6.45,2026,6
+1087,2026-06-06,Mouse,Accessories,West,8657,1188.0,11.0,0.87,2026,6
+1088,2026-06-08,Laptop,Electronics,North,664213,127179.0,12.0,18.49,2026,6
+1089,2026-06-10,Monitor,Electronics,North,140180,20399.0,9.0,18.38,2026,6
+1090,2026-06-11,Mobile,Electronics,North,245236,48035.0,9.0,5.06,2026,6
+1091,2026-06-13,Printer,Office Equipment,North,20911,2884.0,2.0,13.91,2026,6
+1092,2026-06-15,Monitor,Electronics,East,101749,12649.0,7.0,1.51,2026,6
+1093,2026-06-17,Mobile,Electronics,North,389354,63981.0,15.0,3.32,2026,6
+1094,2026-06-19,Mouse,Accessories,West,14061,2781.0,14.0,4.34,2026,6
+1095,2026-06-20,Mouse,Accessories,Central,7725,1075.0,10.0,5.89,2026,6
+1096,2026-06-22,Mouse,Accessories,North,2764,661.0,3.0,19.92,2026,6
+1097,2026-06-24,Mobile,Electronics,East,206124,17863.0,7.0,13.94,2026,6
+1098,2026-06-26,Monitor,Electronics,East,189289,28592.0,12.0,7.68,2026,6
+1099,2026-06-28,Mouse,Accessories,North,8536,2087.0,10.0,14.74,2026,6
+1100,2026-06-30,Keyboard,Accessories,Central,14524,2515.0,9.0,18.31,2026,6
