@@ -306,11 +306,11 @@ Month → Sales by Category
 
 Watch the complete project demonstration to see the menu, data analysis workflow, visualization options, and chart saving process.
 
-### 🎬 [Watch the Full Demo Video](YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE)
+### 🎬 [Watch the Full Demo Video](https://drive.google.com/file/d/14ft_QXwX4h5VwgsMjoSZqFoJupJJ3Tea/view?usp=sharing)
 
 </div>
 
-> 🔗 Replace `YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE` with your Google Drive video link.
+> 🔗 Replace `https://drive.google.com/file/d/14ft_QXwX4h5VwgsMjoSZqFoJupJJ3Tea/view?usp=sharing` with your Google Drive video link.
 
 ---
 
