@@ -310,7 +310,7 @@ Watch the complete project demonstration to see the menu, data analysis workflow
 
 </div>
 
-> 🔗 Replace `https://drive.google.com/file/d/14ft_QXwX4h5VwgsMjoSZqFoJupJJ3Tea/view?usp=sharing` with your Google Drive video link.
+
 
 ---
 
